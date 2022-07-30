@@ -9,8 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=odavidramon&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=odavidramon&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 😂𝐉𝐮𝐬𝐭 𝐚 𝐝𝐞𝐯 𝐦𝐞𝐦𝐞
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=odavidramon&icon=0&color=0)](https://visitcount.itsvg.in)
